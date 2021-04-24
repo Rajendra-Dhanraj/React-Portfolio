@@ -10,7 +10,7 @@ function Nav() {
       <nav>
           <ul>
               <li>
-                  <a href="#about">About Me</a>
+              <a href="#about">About Me</a>
               </li>
               <li>
                   <span>Portfolio</span>

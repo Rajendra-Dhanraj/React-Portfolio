@@ -11,3 +11,98 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* .run-buddy {
+  background-image: url("./assets/images/run-buddy.png");
+}
+
+/* .horiseon {
+  background-image: url("./assets/images/horiseon.png");
+}
+
+.covid-positivity {
+  background-image: url("./assets/images/covid-positivity.png");
+}
+
+.dangles {
+  background-image: url(".assets//images/dangles.png");
+} */
+
+header {
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-position: 100%;
+  background-attachment: fixed;
+  background-color: grey;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  opacity: 0.75;
+}
+/* 
+header h2 {
+  font-size: 40px;
+  border-bottom: 5px solid grey;
+  color: white;
+  margin: 10;
+  text-shadow: #fff 0px 0px 1px;
+} */
+
+/* header h2:hover {
+  font-size: 50px;
+  background: white;
+  color: grey;
+  border-radius: 20px;
+} */
+
+
+
+header li {
+  text-decoration: none;
+  color: white;
+}
+
+header nav {
+  margin: 7px 0;
+}
+
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+header nav ul li {
+  padding: 10px 15px;
+  font-size: 1.55vw;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 0px 10px 0px 10px;
+ 
+}
+
+header nav ul li:hover {
+  background: white;
+  color: grey;
+  border-radius: 15px;
+  text-shadow: none;
+}
+
+header nav ul li a{
+  padding: 10px 15px;
+  font-size: 1.55vw;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 0px 10px 0px 10px;
+ 
+}
+
+header nav ul li a:hover {
+  background: white;
+  color: grey;
+  border-radius: 15px;
+  text-shadow: none;
+}
