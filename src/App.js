@@ -7,6 +7,7 @@ import Resume from "./components/pages/Resume";
 import Portfolio from "./components/pages/Portfolio";
 import Footer from "./components/partials/Footer"
 
+
 function App() {
   const [currentPage, setCurrentPage] = useState("About");
 

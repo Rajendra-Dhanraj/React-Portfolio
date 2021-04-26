@@ -15,9 +15,10 @@ function Footer() {
       <div>
         <a href="https://www.linkedin.com/in/raj-dhanraj-55164b1bb">LinkedIn</a>
       </div>
+      
     </section>
   );
 }
-<h6>Made with love ❤️ by Rajendra Dhanraj</h6>;
+
 
 export default Footer;

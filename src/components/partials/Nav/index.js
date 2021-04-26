@@ -9,7 +9,7 @@ function Nav(props) {
           </a>
       </h2>
       <nav>
-          <ul>
+          <ul className="navText">
               <li>
                   <span onClick={() => props.setCurrentPage("About")} >About Me</span>
               </li>

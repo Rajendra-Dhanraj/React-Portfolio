@@ -11,7 +11,7 @@ code {
 
 main {
   margin: 0 auto;
-  max-width: 100%; 
+  max-width: 100%;
   padding: 50px 30px;
 }
 :root {
@@ -31,11 +31,6 @@ main {
   box-sizing: border-box;
 }
 
-html,
-body {
-  min-height: 100%;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -46,44 +41,8 @@ body {
   background: var(--dark);
   color: var(--light);
   font-family: "Roboto", sans-serif;
+  min-height: 100vh;
 }
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Roboto", sans-serif;
-  
-  /* font-weight: 500;
-  margin: 5px 0;
-  line-height: 1.25; */
-}
-
-/* h1 {
-  font-size: 2.25rem;
-}
-
-h2 {
-  font-size: 2rem;
-}
-
-h3 {
-  font-size: 1.75rem;
-}
-
-h4 {
-  font-size: 1.5rem;
-}
-
-h5 {
-  font-size: 1.25rem;
-}
-
-h6 {
-  font-size: 1rem;
-} */
 
 p {
   font-size: 1.1rem;
@@ -96,19 +55,6 @@ a {
   font-weight: bold;
 }
 
-/* a:hover {
-  text-decoration: underline;
-} */
-
-/* header {
-  background: var(--dark);
-  
-}
-
-header a {
-  color: var(--light);
-} */
-
 header {
   padding: 20px 20px;
   display: flex;
@@ -117,11 +63,10 @@ header {
   background-position: 100%;
   background-attachment: fixed;
   background-color: black;
-  position: -webkit-sticky;
-  position: sticky;
+  /* position: -webkit-sticky;
+  position: sticky; */
   top: 0;
-  opacity: 0.75;
-  
+  opacity: 0.85;
 }
 
 header a {
@@ -168,7 +113,7 @@ button {
   outline: none;
   cursor: pointer;
   margin: 0 1px;
-  background-color: blue
+  background-color: blue;
 }
 
 button:hover {
@@ -182,6 +127,14 @@ button[disabled] {
 
 img {
   max-width: 100%;
+}
+
+.card-img-top {
+  
+  min-height: 30vh;
+  object-fit: cover;
+  width: 100%;
+
 }
 
 span[role="img"] {
@@ -290,44 +243,6 @@ textarea {
   padding-bottom: var(--spacing-two);
 }
 
-.card {
-  width: 25%;
-  text-align: center;
-}
-
-.img-thumbnail {
-  width: auto;
-  height: 300px;
-  margin-bottom: 50px;
-  cursor: pointer;
-}
-
-.modalBackdrop {
-  background: rgba(0, 0, 0, 0.65);
-  bottom: 0;
-  left: 0;
-  overflow: auto;
-  position: fixed;
-  right: 0;
-  top: 0;
-  z-index: 1;
-}
-
-.modalContainer {
-  background: var(--darker);
-  border-radius: 5px;
-  max-width: 100%;
-  margin: 50px auto;
-  padding: 15px;
-  width: 960px;
-}
-
-.modalTitle {
-  font-size: 18px;
-  font-weight: 600;
-  margin-bottom: 25px;
-}
-
 button {
   background: blue;
   border: 0;
@@ -370,41 +285,29 @@ a {
 }
 
 .resumedl:hover {
-font-size: larger;
+  font-size: larger;
 }
 
 .about {
   text-align: center;
-  /* background-image: url(../src/assets/images/digitization-1599552_1920.jpg); */
-  /* background-position: center center;
-  height: 75vh;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;; */
-
-  /* background-image: linear-gradient(to bottom, rgba(22, 22, 22, 1) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url(../src/assets/images/digitization-1599552_1920.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 100vh;
-  min-height: 100vh;
-  width: 100%;
-  color: rgb(190, 189, 189);
-  margin-bottom: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between; */
-  padding-bottom: 5%;
   margin-left: 15%;
   margin-right: 15%;
+  padding: 20px;
+}
+
+.about img {
+  padding: 10px;
+  border-radius: 50%;
 }
 
 .footer {
   background-color: black;
   width: 100%;
   padding: 10px;
-  opacity: 0.75;
+  opacity: 0.85;
+  height: 100px;
+  position: sticky;
+  top: 100%;
 }
 
 .footer a:hover {
@@ -414,6 +317,6 @@ font-size: larger;
   text-shadow: none;
 }
 
-/* .header-container {
-  background-color: black;
-} */
+.navText {
+  color: white;
+}
