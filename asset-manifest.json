@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.21e79c2d.chunk.css",
+    "main.css": "/React-Portfolio/static/css/main.d4f76ace.chunk.css",
     "main.js": "/React-Portfolio/static/js/main.e3b7a544.chunk.js",
     "main.js.map": "/React-Portfolio/static/js/main.e3b7a544.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.38c057fd.js",
@@ -12,7 +12,7 @@
     "static/js/3.51cbb5d3.chunk.js.map": "/React-Portfolio/static/js/3.51cbb5d3.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/React-Portfolio/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.21e79c2d.chunk.css.map": "/React-Portfolio/static/css/main.21e79c2d.chunk.css.map",
+    "static/css/main.d4f76ace.chunk.css.map": "/React-Portfolio/static/css/main.d4f76ace.chunk.css.map",
     "static/js/2.f33581ce.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.f33581ce.chunk.js.LICENSE.txt",
     "static/media/Rajendra_Dhanraj.ff88e525.pdf": "/React-Portfolio/static/media/Rajendra_Dhanraj.ff88e525.pdf",
     "static/media/bugdet-tracker.669b0f29.png": "/React-Portfolio/static/media/bugdet-tracker.669b0f29.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.38c057fd.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.f33581ce.chunk.js",
-    "static/css/main.21e79c2d.chunk.css",
+    "static/css/main.d4f76ace.chunk.css",
     "static/js/main.e3b7a544.chunk.js"
   ]
 }
