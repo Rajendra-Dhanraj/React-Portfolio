@@ -257,7 +257,7 @@ button {
 
 a {
   border-radius: 5px;
-  color: var(--light);
+  color: rgb(17, 131, 184);
   font-weight: 600;
   padding: 2px 4px;
   margin-left: -2px;
