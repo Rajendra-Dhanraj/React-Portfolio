@@ -39,25 +39,22 @@ This application is covered under the [MIT](https://opensource.org/licenses/MIT)
 
 ### Screenshots
 
-`Landing page:`
+`Landing/About page:`
 
-![Screenshot1](./images/screenshot1.png)
+![Screenshot1](./src/assets/images/screenshot1.png)
 
-How to download application:
-
-`Homepage:`
-
-![Screenshot2](./images/screenshot2.png)
 
 `Porfolio Page:`
 
-`Contact Page:`
+![Screenshot2](./src/assets/images/screenshot2.png)
 
 `Resume Page:`
 
+![Screenshot2](./src/assets/images/screenshot3.png)
+
 ### Deployed-Url
 
-[Click to visit deployed application!]()
+[Click to visit deployed application!](https://rajendra-dhanraj.github.io/React-Portfolio/)
 
 ### Questions
 
