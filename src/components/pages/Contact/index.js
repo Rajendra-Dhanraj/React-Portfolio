@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import { validateEmail } from "../../utils/helpers";
+import { validateEmail } from "../../../utils/helpers";
 
 function ContactForm() {
   const [formState, setFormState] = useState({
@@ -42,7 +42,7 @@ function ContactForm() {
 
   return (
     <section>
-      <h1 data-testid="h1tag">Contact me</h1>
+      <h3 data-testid="h1tag">Contact me</h3>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
