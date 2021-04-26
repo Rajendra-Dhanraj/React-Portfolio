@@ -29,9 +29,7 @@ function Portfolio() {
           <img src={bTracker} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">
-              <a
-                href="https://ancient-journey-18280.herokuapp.com/"
-              >
+              <a href="https://ancient-journey-18280.herokuapp.com/">
                 Budget Tracker
               </a>
             </h5>
@@ -48,11 +46,15 @@ function Portfolio() {
           <img src={covid} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">
-              <a href="https://uot-project1-group07.github.io/project1-group07/">Covid Posi+vity</a>
+              <a href="https://uot-project1-group07.github.io/project1-group07/">
+                Covid Posi+vity
+              </a>
             </h5>
             <p className="card-text">
               <small className="text-muted">
-                <a href="https://github.com/Uot-Project1-Group07/project1-group07">Github Repository</a>
+                <a href="https://github.com/Uot-Project1-Group07/project1-group07">
+                  Github Repository
+                </a>
               </small>
             </p>
           </div>
@@ -64,11 +66,15 @@ function Portfolio() {
           <img src={horiseon} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">
-              <a href="https://rajendra-dhanraj.github.io/urban-octo-telegram-main/">Horiseon</a>
+              <a href="https://rajendra-dhanraj.github.io/urban-octo-telegram-main/">
+                Horiseon
+              </a>
             </h5>
             <p className="card-text">
               <small className="text-muted">
-                <a href="https://github.com/Rajendra-Dhanraj/urban-octo-telegram-main">Github Repository</a>
+                <a href="https://github.com/Rajendra-Dhanraj/urban-octo-telegram-main">
+                  Github Repository
+                </a>
               </small>
             </p>
           </div>
@@ -77,11 +83,15 @@ function Portfolio() {
           <img src={rBuddy} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">
-              <a href="https://rajendra-dhanraj.github.io/run-buddy-2/">Run Buddy</a>
+              <a href="https://rajendra-dhanraj.github.io/run-buddy-2/">
+                Run Buddy
+              </a>
             </h5>
             <p className="card-text">
               <small className="text-muted">
-                <a href="https://github.com/Rajendra-Dhanraj/run-buddy-2">Github Repository</a>
+                <a href="https://github.com/Rajendra-Dhanraj/run-buddy-2">
+                  Github Repository
+                </a>
               </small>
             </p>
           </div>
@@ -90,11 +100,15 @@ function Portfolio() {
           <img src={dangles} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">
-              <a href="https://intense-headland-44008.herokuapp.com/">Dangles</a>
+              <a href="https://intense-headland-44008.herokuapp.com/">
+                Dangles
+              </a>
             </h5>
             <p className="card-text">
               <small className="text-muted">
-                <a href="https://github.com/uoft-project2-group7/project">Github Repository</a>
+                <a href="https://github.com/uoft-project2-group7/project">
+                  Github Repository
+                </a>
               </small>
             </p>
           </div>
