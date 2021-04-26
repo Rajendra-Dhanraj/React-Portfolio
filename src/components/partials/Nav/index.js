@@ -4,7 +4,7 @@ import React from "react";
 function Nav(props) {
   return <header className="header-container">
       <h2>
-          <a href="/">
+          <a>
            <span className="devName">Raj Dhanraj</span>   
           </a>
       </h2>
