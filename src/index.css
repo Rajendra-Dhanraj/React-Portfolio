@@ -130,11 +130,9 @@ img {
 }
 
 .card-img-top {
-  
   min-height: 30vh;
   object-fit: cover;
   width: 100%;
-
 }
 
 span[role="img"] {
@@ -198,8 +196,6 @@ textarea {
   justify-content: flex-end;
 }
 
-
-
 button {
   background: blue;
   border: 0;
@@ -241,8 +237,13 @@ a {
   padding: 20px;
 }
 
+.resumedl {
+  text-shadow: blue;
+  font-size: 25px;
+}
+
 .resumedl:hover {
-  font-size: larger;
+  font-size: 35px;
 }
 
 .about {
