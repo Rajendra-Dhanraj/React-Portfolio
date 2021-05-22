@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.3440155c.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.22c44622.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.22c44622.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.9792277f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.9792277f.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.38c057fd.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.38c057fd.js.map",
     "static/css/2.ef9168ec.chunk.css": "/React-Portfolio/static/css/2.ef9168ec.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/bugdet-tracker.669b0f29.png": "/React-Portfolio/static/media/bugdet-tracker.669b0f29.png",
     "static/media/covid-positivity.0060a22b.png": "/React-Portfolio/static/media/covid-positivity.0060a22b.png",
     "static/media/dangles.1fc22926.png": "/React-Portfolio/static/media/dangles.1fc22926.png",
-    "static/media/horiseon.4c5ce95a.png": "/React-Portfolio/static/media/horiseon.4c5ce95a.png",
+    "static/media/dog-dash.f52505b6.png": "/React-Portfolio/static/media/dog-dash.f52505b6.png",
     "static/media/raj-headshot.d08905af.jpeg": "/React-Portfolio/static/media/raj-headshot.d08905af.jpeg",
     "static/media/run-buddy.91e349fa.png": "/React-Portfolio/static/media/run-buddy.91e349fa.png",
     "static/media/tech-blog.70a318ff.png": "/React-Portfolio/static/media/tech-blog.70a318ff.png"
@@ -28,6 +28,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.f33581ce.chunk.js",
     "static/css/main.3440155c.chunk.css",
-    "static/js/main.22c44622.chunk.js"
+    "static/js/main.9792277f.chunk.js"
   ]
 }
