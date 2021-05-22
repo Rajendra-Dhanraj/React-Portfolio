@@ -3,7 +3,7 @@ import techBlog from "../../../assets/images/tech-blog.png";
 import bTracker from "../../../assets/images/bugdet-tracker.png";
 import covid from "../../../assets/images/covid-positivity.png";
 import dangles from "../../../assets/images/dangles.png";
-import horiseon from "../../../assets/images/horiseon.png";
+import dDash from "../../../assets/images/dog-dash.png";
 import rBuddy from "../../../assets/images/run-buddy.png";
 
 function Portfolio() {
@@ -63,16 +63,16 @@ function Portfolio() {
 
       <div className="card-group">
         <div className="card">
-          <img src={horiseon} className="card-img-top" alt="..." />
+          <img src={dDash} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">
-              <a href="https://rajendra-dhanraj.github.io/urban-octo-telegram-main/">
-                Horiseon
+              <a href="https://dog-dash.herokuapp.com/">
+                Dog Dash
               </a>
             </h5>
             <p className="card-text">
               <small className="text-muted">
-                <a href="https://github.com/Rajendra-Dhanraj/urban-octo-telegram-main">
+                <a href="https://github.com/pro3gro3/walk-my-dog">
                   Github Repository
                 </a>
               </small>
